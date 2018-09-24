@@ -1,2 +1,5 @@
-# 2018ParcialLogico
-Parcial Logico con solución. Dia de Furia. 2018.
+# Dia de Furia 
+## Parcial Logico (con solución). 2018.
+
+###  Consigna
+https://docs.google.com/document/d/1omdRN-eP55lkusU-iT43EhN_whK885tgFrJBE1zUwfQ/edit#
